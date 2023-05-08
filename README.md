@@ -12,7 +12,7 @@
 ---
 
 ### BAIS Course Completed
-BAIS:3000 - Operations Management  
+BAIS:3000 - Operations Management
 BAIS:3005 - Information Systems
 BAIS:3020 - Computational Thinking
 BAIS:3200 - Information Visualization
