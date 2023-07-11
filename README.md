@@ -1,6 +1,6 @@
 ## Hi, I'm Aadhar. :wave:
 
-### I'm a senior at the Tippie College of Business, The University of Iowa, I am currently pursing double major in Business Analytics/Information Systems and Economics
+### I'm a recent graduate from the Tippie College of Business, The University of Iowa, with a double major in Business Analytics/Information Systems and Economics
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadhar-agarwal-92a154222/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.aadharagarwal.me/)
 
