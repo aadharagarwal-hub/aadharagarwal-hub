@@ -1,6 +1,6 @@
 Hi, I'm Aadhar 👋
 
-Tippie College of Business grad here — I studied Business Analytics Information Systems and Economics at the University of Iowa. Currently, I work at University of Iowa Health Care, where I dig into operational analytics, reporting, and process improvements across clinical units.
+Tippie College of Business grad here! I studied Business Analytics Information Systems and Economics at the University of Iowa. Currently, I work at University of Iowa Health Care, where I dig into operational analytics, reporting, and process improvements across clinical units.
 
 I'm genuinely into data analytics, business intelligence, and building tools that help people make better decisions faster. The projects on this profile reflect that — a mix of Python, SQL, machine learning, and data visualization work I've put together over time.
 Always tinkering with something new, whether that's picking up a tool I haven't used before or taking on a problem that pushes me to think differently. If something catches your eye, feel free to reach out.
