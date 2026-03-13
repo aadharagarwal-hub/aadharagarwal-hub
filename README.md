@@ -1,6 +1,9 @@
-## Hi, I'm Aadhar. :wave:
+Hi, I'm Aadhar 👋
 
-### I'm a recent graduate from the Tippie College of Business, The University of Iowa, with a double major in Business Analytics/Information Systems and Economics. This is my profile with some of my past projects that I have completed.
+Tippie College of Business grad here — I studied Business Analytics Information Systems and Economics at the University of Iowa. Currently, I work at University of Iowa Health Care, where I dig into operational analytics, reporting, and process improvements across clinical units.
+
+I'm genuinely into data analytics, business intelligence, and building tools that help people make better decisions faster. The projects on this profile reflect that — a mix of Python, SQL, machine learning, and data visualization work I've put together over time.
+Always tinkering with something new, whether that's picking up a tool I haven't used before or taking on a problem that pushes me to think differently. If something catches your eye, feel free to reach out.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadhar-agarwal-92a154222/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.aadharagarwal.me/)
 
